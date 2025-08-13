@@ -9,6 +9,22 @@ This project demonstrates network forensics by capturing and analyzing attack tr
 - **Wireshark** — Packet capturing and analysis tool
 - **Nmap** — Network scanning tool
 
+## Folder Structure
+
+Network-Forensics-Analysis/  
+│  
+├── captures/ ← Stores captured packet files (.pcapng)  
+│   ├── normal_login.pcapng  
+│   ├── sqli_attempt.pcapng  
+│   └── nmap_scan.pcapng  
+│  
+├── screenshots/ ← Stores screenshots of Wireshark captures  
+│   ├── normal_login.png  
+│   ├── sqli_attempt.png  
+│   └── nmap_scan.png  
+│  
+└── README.md ← This file
+
 ## Project Steps
 
 ### 1. Capture Normal Login
