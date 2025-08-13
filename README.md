@@ -72,7 +72,6 @@ Network-Forensics-Analysis/
 - Helps understand **real-world network attacks** in a controlled environment  
 - Provides hands-on experience with **Wireshark and packet analysis**  
 - Learn how to **detect malicious activities** like SQL injection and network scanning  
-- Useful for **cybersecurity students and professionals** to practice forensics skills  
 - Demonstrates the importance of **secure coding and network defenses**  
 
 ---
